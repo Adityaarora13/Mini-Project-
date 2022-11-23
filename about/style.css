@@ -15,7 +15,6 @@
 }
 .team-member {
     width: 100%;
-    float: left;
     padding: 25px 15px;
     background-color: #fff;
     border-radius: 10px;
@@ -42,7 +41,7 @@
     font-size: 16px;
     color: #8a8a8a;
 }
-.team-member .photo {
+.photo {
     width: 90px;
     height: 90px;
     border-radius: 100%;
