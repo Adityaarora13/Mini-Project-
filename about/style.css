@@ -42,8 +42,8 @@
     color: #8a8a8a;
 }
 .team-section.photo {
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
     border-radius: 100%;
     overflow: hidden;
     border: 1px solid #9E9E9E;
@@ -60,7 +60,7 @@
 }
 
 .follow-on ul li {
-    float: left;
+    
     list-style: none;
     font-size: 20px;
     text-align: center;
